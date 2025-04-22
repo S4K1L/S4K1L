@@ -61,14 +61,6 @@ Tools:     [ Git, GitHub, Android Studio, VS Code ]
 
 ---
 
-## ⚡ Hacker Mode: Matrix Vibes
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=U6A7Iv0RbdA&list=PLzYXGkM2VsaaEHxS7Rms06sH5iXI6x_1x" target="_blank">
-    <img src="https://img.youtube.com/vi/3fZ5E3vQNpE/0.jpg" width="480" alt="Hacker Matrix Code Video" />
-  </a>
-</p>
-
 > 🎷 Turn up the volume, dim the lights, and feel the code rain.
 
 ---
@@ -89,7 +81,7 @@ Tools:     [ Git, GitHub, Android Studio, VS Code ]
 ## 📋 Download My Resume
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/19PO8aPYOsf-dVn28AdjSoBfledO6SyOF/view?usp=drive_link" width="150" alt="Resume QR Code" />
+  <a href="https://drive.google.com/file/d/19PO8aPYOsf-dVn28AdjSoBfledO6SyOF/view?usp=drive_link" width="150" >Resume QR Code</a>
   <br>
   <a href="https://drive.google.com/file/d/1mA6gE0ks7cmcS-Dpq5gFmVY_TGCJaT4_/view?usp=drive_link">Click to Download Resume (PDF)</a>
 </p>
