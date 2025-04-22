@@ -25,10 +25,10 @@
 ## ⚒️ Tech Stack
 
 ```yaml
-Languages:  [ Dart, JavaScript ]
+Languages:  [ Dart, C, C++ ]
 Framework: [ Flutter ]
-Backend:   [ Firebase, Node.js ]
-State Mgmt:[ Riverpod, Bloc, Provider ]
+Backend:   [ Firebase, Supabase ]
+State Mgmt:[ GetX ]
 UI/UX:     [ Material Design, Figma ]
 Tools:     [ Git, GitHub, Android Studio, VS Code ]
 ```
@@ -42,6 +42,22 @@ Tools:     [ Git, GitHub, Android Studio, VS Code ]
   <a href="https://linkedin.com/in/shakil-mahmud"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.fiverr.com/shakil_app_dev?public_mode=true"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧐 Mental Health ChatBot
+> AI-powered Chatbot for mental health support. Secure auth + real-time community interaction.  
+[🔗 GitHub Repo](https://github.com/S4K1L/Mental-Health-Companion.git)
+
+### 🎵 Music Player App
+> A sleek music player app using GetX & REST APIs with authentication.  
+[🔗 GitHub Repo](https://github.com/S4K1L/Music-Players.git)
+
+### 💬 Real-Time Chat App
+> Firebase-based real-time chat with clean UI & smooth messaging experience.  
+[🔗 GitHub Repo](https://github.com/S4K1L/Love-Bytes.git)
 
 ---
 
@@ -70,6 +86,16 @@ Tools:     [ Git, GitHub, Android Studio, VS Code ]
 
 ---
 
+## 📋 Download My Resume
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/S4K1L/S4K1L/main/shakil_resume_qr.png" width="150" alt="Resume QR Code" />
+  <br>
+  <a href="https://github.com/S4K1L/S4K1L/raw/main/Resume.pdf">Click to Download Resume (PDF)</a>
+</p>
+
+---
+
 ## 🧠 Philosophy
 
 > 💡 *"Clean Code, Bold Design, Infinite Possibilities."*  
@@ -80,4 +106,3 @@ Tools:     [ Git, GitHub, Android Studio, VS Code ]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00FFEA,100:000000&height=150&section=footer&text=Let's%20Build%20the%20Future%20%f0%9f%9a%80&fontColor=white&fontSize=24&fontAlign=middle" />
 </p>
-
