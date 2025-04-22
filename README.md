@@ -64,7 +64,7 @@ Tools:     [ Git, GitHub, Android Studio, VS Code ]
 ## ⚡ Hacker Mode: Matrix Vibes
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=3fZ5E3vQNpE" target="_blank">
+  <a href="https://www.youtube.com/watch?v=U6A7Iv0RbdA&list=PLzYXGkM2VsaaEHxS7Rms06sH5iXI6x_1x" target="_blank">
     <img src="https://img.youtube.com/vi/3fZ5E3vQNpE/0.jpg" width="480" alt="Hacker Matrix Code Video" />
   </a>
 </p>
