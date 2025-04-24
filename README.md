@@ -1,7 +1,7 @@
 <!-- Futuristic Hacker-style GitHub README for Shakil Mahmud -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFEA&center=true&width=500&lines=Hey+there%2C+I'm+Shakil+Mahmud!;Flutter+Developer+%7C+Software+Engineer;Let%E2%80%99s+Build+Something+Futuristic+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFEA&center=true&width=500&lines=Hey+there%2C+I'm+Shakil+Mahmud!;  Flutter+Developer+%7C+Software+Engineer;Let%E2%80%99s+Build+Something+Futuristic+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
