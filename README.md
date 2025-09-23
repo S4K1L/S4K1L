@@ -40,7 +40,6 @@ Tools:     [ Git, GitHub, Android Studio, VS Code ]
 <p align="center">
   <a href="mailto:69shakilmahmumd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shakil-mahmud"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.fiverr.com/shakil_app_dev?public_mode=true"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 </p>
 
 ---
