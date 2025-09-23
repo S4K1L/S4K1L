@@ -93,7 +93,3 @@ Tools:     [ Git, GitHub, Android Studio, VS Code ]
 > – Shakil Mahmud
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00FFEA,100:000000&height=150&section=footer&text=Let's%20Build%20the%20Future%20%f0%9f%9a%80&fontColor=white&fontSize=24&fontAlign=middle" />
-</p>
