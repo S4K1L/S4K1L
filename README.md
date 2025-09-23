@@ -25,9 +25,9 @@
 ## ⚒️ Tech Stack
 
 ```yaml
-Languages:  [ Dart, C, C++ ]
+Languages:  [ Dart, C, C++, Python ]
 Framework: [ Flutter ]
-Backend:   [ Firebase, Supabase ]
+Backend:   [ Firebase, Supabase, RESTApi ]
 State Mgmt:[ GetX ]
 UI/UX:     [ Material Design, Figma ]
 Tools:     [ Git, GitHub, Android Studio, VS Code ]
