@@ -80,9 +80,7 @@ Tools:     [ Git, GitHub, Android Studio, VS Code ]
 ## 📋 Download My Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/19PO8aPYOsf-dVn28AdjSoBfledO6SyOF/view?usp=drive_link" width="150" >Resume QR Code</a>
-  <br>
-  <a href="https://drive.google.com/file/d/1mA6gE0ks7cmcS-Dpq5gFmVY_TGCJaT4_/view?usp=drive_link">Click to Download Resume (PDF)</a>
+  <a href="https://drive.google.com/file/d/1F4fa9IeLd3RoGIiW9MLo4YnSuey5SW3Z/view?usp=sharing">Click to Download Resume (PDF)</a>
 </p>
 
 ---
