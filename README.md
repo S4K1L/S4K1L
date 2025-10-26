@@ -80,7 +80,7 @@ Tools:     [ Git, GitHub, Android Studio, VS Code ]
 ## 📋 Download My Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1F4fa9IeLd3RoGIiW9MLo4YnSuey5SW3Z/view?usp=sharing">Click to Download Resume (PDF)</a>
+  <a href="https://drive.google.com/file/d/1-NjeL20TYeViROxPFXh0GT-HBnFGH18k/view?usp=sharing">Click to Download Resume (PDF)</a>
 </p>
 
 ---
