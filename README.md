@@ -1,108 +1,108 @@
-<!-- ⚡ Futuristic Hacker-Themed GitHub README for Shakil Mahmud ⚡ -->
+<!-- ⚫ DARK SCI-FI README: Deep-Space Terminal Boot Sequence -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1200&center=true&vCenter=true&width=800&color=00FFD5&lines=ACCESS+GRANTED...;WELCOME+TO+SHAKIL+MAHMUD'S+MAINFRAME;Flutter+Engineer+%7C+Mobile+Architect+%7C+Future+Builder" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1100&color=8C74FF&center=true&vCenter=true&width=800&lines=BOOTING+NEBULA+CORE...;ACCESS+POINT:+SHAKIL+MAHMUD;Flutter+Engineer+%7C+Cosmic+Software+Architect" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="350" alt="Sci-fi animation"/>
 </p>
 
 ---
 
 <div align="center">
 
-### 🧠 **Status:**  
-`System Online` | `Neon Pulse Stable` | `Awaiting Commands...`
+### 🛡️ **Status:**  
+`Galactic Node Online` • `Quantum Signal Stable` • `Awaiting Commands`
 
 </div>
 
 ---
 
-## 🧬 **About Me — System Identity Trace**
+## 🧬 **Identity Scan — Subject Profile**
 
 ```bash
-$ initializing system…
-> identity = "Shakil Mahmud"
-> role = "Flutter Developer | Software Engineer"
-> specialization = ["Cross-Platform Apps", "UI/UX Crafting", "Firebase Systems"]
-> status = "Coding at light-speed..."
+> Initiating biometric scan…
+> Match found: "SHAKIL MAHMUD"
+> Rank: Flutter Developer | Software Engineer
+> Modules: UI Architecture | Cross-Platform Deployment | Cloud Sync Systems
+> Clearance Level: ALPHA-7
 ````
 
-I build **futuristic cross-platform apps**, breathe **Flutter widgets**, and fine-tune UI like a digital artist.
-If it has a screen — I can make it fast, beautiful, and scalable.
+I create **immersive mobile experiences**, sculpt smooth UI, and deploy scalable systems across digital galaxies.
+Every line of code is crafted like star-metal.
 
 ---
 
-## ⚡ **Tech Arsenal — Weapon Loadout**
+## ⚙️ **Tech Arsenal — Weapon Systems**
 
 ```yaml
-Languages:
+Core Languages:
   - Dart
+  - Python
   - C
   - C++
-  - Python
 
 Framework:
-  - Flutter
+  - Flutter Engine vNext
 
-Backend & Cloud:
+Backend Nodes:
   - Firebase
   - Supabase
-  - REST API
+  - REST Networks
 
-State Management:
+State Core:
   - GetX
 
-Design & UI:
-  - Figma
-  - Material Design
+Design Console:
+  - Figma Holographics
+  - Material Protocol
 
-Tools:
-  - Git / GitHub
+Operational Tools:
   - VS Code
   - Android Studio
+  - GitHub Grid
 ```
 
 ---
 
-## 🛰️ **Connect With the Operator**
+## 🛰️ **Communication Channels**
 
 <div align="center">
-  <a href="mailto:69shakilmahmumd@gmail.com"><img src="https://img.shields.io/badge/Email-FF0050?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/shakil-mahmud"><img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:69shakilmahmumd@gmail.com"><img src="https://img.shields.io/badge/Encrypted%20Signal-8B0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/shakil-mahmud"><img src="https://img.shields.io/badge/LinkedIn%20Gateway-001F3F?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ---
 
-# 🔥 **Featured Deployments**
+# 🌌 **Deployed Missions**
 
 ### 🧠 Mental Health ChatBot
 
-> AI-powered therapeutic assistant with secure authentication & community interaction.
-> 🔗 **Repo:** [https://github.com/S4K1L/Mental-Health-Companion.git](https://github.com/S4K1L/Mental-Health-Companion.git)
+`AI UNIT: Emotional Stabilizer — Status: Active`
+➡️ [https://github.com/S4K1L/Mental-Health-Companion.git](https://github.com/S4K1L/Mental-Health-Companion.git)
 
 ---
 
 ### 🎵 Music Player App
 
-> Clean UI + GetX + Secure Login + Custom API integration.
-> 🔗 **Repo:** [https://github.com/S4K1L/Music-Players.git](https://github.com/S4K1L/Music-Players.git)
+`AUDIO CORE ENGINE — Status: Operational`
+➡️ [https://github.com/S4K1L/Music-Players.git](https://github.com/S4K1L/Music-Players.git)
 
 ---
 
 ### 💬 Real-Time Chat App
 
-> Firebase-powered messaging with smooth UI/UX.
-> 🔗 **Repo:** [https://github.com/S4K1L/Love-Bytes.git](https://github.com/S4K1L/Love-Bytes.git)
+`QUANTUM COMM LINK — Status: Stable`
+➡️ [https://github.com/S4K1L/Love-Bytes.git](https://github.com/S4K1L/Love-Bytes.git)
 
 ---
 
-## 📊 **Live Activity Feed**
+## 🛸 **Activity Map — Galactic Footprint**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shakilmahmud&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilmahmud&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shakilmahmud&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilmahmud&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -111,30 +111,28 @@ Tools:
 
 ---
 
-## 🧾 **Download Resume**
+## 📁 **Download Mission Brief (Resume)**
 
 <div align="center">
-
-### 📁
-
-**[⬇️ Download Resume (PDF)](https://drive.google.com/file/d/1-NjeL20TYeViROxPFXh0GT-HBnFGH18k/view?usp=sharing)**
-
+  <a href="https://drive.google.com/file/d/1-NjeL20TYeViROxPFXh0GT-HBnFGH18k/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download%20Resume-8C74FF?style=for-the-badge&logo=readme&logoColor=white">
+  </a>
 </div>
 
 ---
 
-## ⚙️ **Philosophy Protocol**
+## 🧠 **Prime Directive**
 
-> **“Clean Code, Bold Design, Infinite Possibilities.”**
-> — *Shakil Mahmud*
+> **“Precision in Code. Depth in Design. Order in the Chaos of the Cosmos.”**
+> — *Commander Shakil*
 
 ---
 
 <div align="center">
 
-### 🛸 **End of Transmission**
+### 🖤 **END OF TRANSMISSION**
 
-`>>> System Standing By…`
-`>>> Awaiting Next Mission ⚡`
+`Nebula Core entering silent mode…`
+`Reinitialize anytime.`
 
 </div>
