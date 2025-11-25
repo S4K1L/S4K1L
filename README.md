@@ -78,24 +78,24 @@ Operational Tools:
 
 # 🌌 **Deployed Missions**
 
-### 🧠 Mental Health ChatBot
+### 🧠 Kunchi Hiddup - Chakra App
 
 `AI UNIT: Emotional Stabilizer — Status: Active`
-🔗 **Repo:** [https://github.com/S4K1L/Mental-Health-Companion.git](https://github.com/S4K1L/Mental-Health-Companion.git)
+🔗 **Repo:** [https://github.com/S4K1L/Kunchi-Hidup.git](https://github.com/S4K1L/Kunchi-Hidup.git)
 
 ---
 
-### 🎵 Music Player App
+### 🛸 TheClue - Crypto Education
 
 `AUDIO CORE ENGINE — Status: Operational`
-🔗 **Repo:** [https://github.com/S4K1L/Music-Players.git](https://github.com/S4K1L/Music-Players.git)
+🔗 **Repo:** [https://github.com/S4K1L/Crypto-Education.git](https://github.com/S4K1L/Crypto-Education.git)
 
 ---
 
-### 💬 Real-Time Chat App
+### 💬 re: - Social Media App
 
 `QUANTUM COMM LINK — Status: Stable`
-🔗 **Repo:** [https://github.com/S4K1L/Love-Bytes.git](https://github.com/S4K1L/Love-Bytes.git)
+🔗 **Repo:** [https://github.com/S4K1L/REE-Social-Media.git](https://github.com/S4K1L/REE-Social-Media.git)
 
 ---
 
