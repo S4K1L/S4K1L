@@ -1,11 +1,11 @@
-<!-- ⚫ DARK SCI-FI README: Deep-Space Terminal Boot Sequence -->
+<!-- ⚫ DARK SCI-FI README: Starship Terminal Boot Sequence -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1100&color=8C74FF&center=true&vCenter=true&width=800&lines=BOOTING+NEBULA+CORE...;ACCESS+POINT:+SHAKIL+MAHMUD;Flutter+Engineer+%7C+Cosmic+Software+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1200&color=8C74FF&center=true&vCenter=true&width=800&lines=BOOTING+NEBULA+CORE...;ACCESS+POINT:+SHAKIL+MAHMUD;Flutter+Engineer+%7C+Cosmic+Software+Architect" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="350" alt="Sci-fi animation"/>
+  <img src="https://media.giphy.com/media/Y0b2MPXhXPlG8/giphy.gif" width="420" alt="Futuristic Mainframe GIF"/>
 </p>
 
 ---
@@ -29,12 +29,12 @@
 > Clearance Level: ALPHA-7
 ````
 
-I create **immersive mobile experiences**, sculpt smooth UI, and deploy scalable systems across digital galaxies.
-Every line of code is crafted like star-metal.
+I create immersive mobile experiences, sculpt futuristic UI, and deploy scalable cloud systems across digital galaxies.
+Every project is crafted with precision — every line of code forged like star-steel.
 
 ---
 
-## ⚙️ **Tech Arsenal — Weapon Systems**
+# ⚙️ **Tech Arsenal — Weapon Systems**
 
 ```yaml
 Core Languages:
@@ -66,7 +66,7 @@ Operational Tools:
 
 ---
 
-## 🛰️ **Communication Channels**
+# 🛰️ **Communication Channels**
 
 <div align="center">
   <a href="mailto:69shakilmahmumd@gmail.com"><img src="https://img.shields.io/badge/Encrypted%20Signal-8B0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -80,25 +80,25 @@ Operational Tools:
 ### 🧠 Mental Health ChatBot
 
 `AI UNIT: Emotional Stabilizer — Status: Active`
-➡️ [https://github.com/S4K1L/Mental-Health-Companion.git](https://github.com/S4K1L/Mental-Health-Companion.git)
+🔗 **Repo:** [https://github.com/S4K1L/Mental-Health-Companion.git](https://github.com/S4K1L/Mental-Health-Companion.git)
 
 ---
 
 ### 🎵 Music Player App
 
 `AUDIO CORE ENGINE — Status: Operational`
-➡️ [https://github.com/S4K1L/Music-Players.git](https://github.com/S4K1L/Music-Players.git)
+🔗 **Repo:** [https://github.com/S4K1L/Music-Players.git](https://github.com/S4K1L/Music-Players.git)
 
 ---
 
 ### 💬 Real-Time Chat App
 
 `QUANTUM COMM LINK — Status: Stable`
-➡️ [https://github.com/S4K1L/Love-Bytes.git](https://github.com/S4K1L/Love-Bytes.git)
+🔗 **Repo:** [https://github.com/S4K1L/Love-Bytes.git](https://github.com/S4K1L/Love-Bytes.git)
 
 ---
 
-## 🛸 **Activity Map — Galactic Footprint**
+# 🛸 **Activity Map — Galactic Footprint**
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shakilmahmud&show_icons=true&theme=chartreuse-dark&hide_border=true" />
@@ -111,7 +111,7 @@ Operational Tools:
 
 ---
 
-## 📁 **Download Mission Brief (Resume)**
+# 📁 **Download Mission Brief (Resume)**
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1-NjeL20TYeViROxPFXh0GT-HBnFGH18k/view?usp=sharing">
