@@ -1,11 +1,12 @@
 <!-- ⚫ DARK SCI-FI README: Starship Terminal Boot Sequence -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1200&color=8C74FF&center=true&vCenter=true&width=800&lines=BOOTING+NEBULA+CORE...;ACCESS+POINT:+SHAKIL+MAHMUD;Flutter+Engineer+%7C+Cosmic+Software+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1200&color=8C74FF&center=true&vCenter=true&width=800&lines=BOOTING+GITHUB+CORE...;ACCESS+POINT:+SHAKIL+MAHMUD;Flutter+Developer+%7C+Software+Engineer" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y0b2MPXhXPlG8/giphy.gif" width="420" alt="Futuristic Mainframe GIF"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
+
 </p>
 
 ---
