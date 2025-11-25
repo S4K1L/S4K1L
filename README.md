@@ -1,8 +1,3 @@
----
-
-# 🚀 **CYBERPUNK GITHUB README – SHAKIL MAHMUD**
-
-````md
 <!-- ⚡ Futuristic Hacker-Themed GitHub README for Shakil Mahmud ⚡ -->
 
 <h1 align="center">
