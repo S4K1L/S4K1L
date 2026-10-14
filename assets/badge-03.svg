@@ -9,9 +9,9 @@
   <text class="m4" x="65" y="17.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#22D3EE">03/WORK</text>
   <text class="m4" x="116" y="18" font-size="12" font-weight="600" fill="#8B949E">›</text>
   <g clip-path="url(#tickClip)"><g>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-269 0" dur="11.2s" repeatCount="indefinite"/>
-      <text class="m4" x="128" y="18" font-size="11.5" fill="#E6EDF3" textLength="269" lengthAdjust="spacing" xml:space="preserve">Join Venture Ai  ·  Dhaka, Bangladesh  <tspan fill="#484F58">&#183;</tspan> </text>
-      <text class="m4" x="397" y="18" font-size="11.5" fill="#E6EDF3" textLength="269" lengthAdjust="spacing" xml:space="preserve">Join Venture Ai  ·  Dhaka, Bangladesh  <tspan fill="#484F58">&#183;</tspan> </text>
-      <text class="m4" x="666" y="18" font-size="11.5" fill="#E6EDF3" textLength="269" lengthAdjust="spacing" xml:space="preserve">Join Venture Ai  ·  Dhaka, Bangladesh  <tspan fill="#484F58">&#183;</tspan> </text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-234 0" dur="9.8s" repeatCount="indefinite"/>
+      <text class="m4" x="128" y="18" font-size="11.5" fill="#E6EDF3" textLength="234" lengthAdjust="spacing" xml:space="preserve">OrpheusPLC  ·  Flutter Developer  <tspan fill="#484F58">&#183;</tspan> </text>
+      <text class="m4" x="362" y="18" font-size="11.5" fill="#E6EDF3" textLength="234" lengthAdjust="spacing" xml:space="preserve">OrpheusPLC  ·  Flutter Developer  <tspan fill="#484F58">&#183;</tspan> </text>
+      <text class="m4" x="596" y="18" font-size="11.5" fill="#E6EDF3" textLength="234" lengthAdjust="spacing" xml:space="preserve">OrpheusPLC  ·  Flutter Developer  <tspan fill="#484F58">&#183;</tspan> </text>
   </g></g>
 </svg>

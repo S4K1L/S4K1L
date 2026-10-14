@@ -34,8 +34,8 @@
 <text class="m4" x="92.0" y="172" text-anchor="middle" font-size="10" fill="#8B949E">Material · Figma</text>
 <rect x="194" y="96" width="124" height="92" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.5"><animate attributeName="stroke" calcMode="discrete" values="#30363D;#54C5F8;#30363D;#30363D" keyTimes="0;0.245;0.93;1" dur="14.0s" repeatCount="indefinite"/><animate attributeName="fill" calcMode="discrete" values="#161B22;#0F2A3A;#161B22;#161B22" keyTimes="0;0.245;0.93;1" dur="14.0s" repeatCount="indefinite"/></rect>
 <text class="m4" x="256.0" y="120" text-anchor="middle" font-size="10" font-weight="700" fill="#54C5F8">02 / STATE</text>
-<text class="sans" x="256.0" y="150" text-anchor="middle" font-size="19" font-weight="700" fill="#E6EDF3">GetX</text>
-<text class="m4" x="256.0" y="172" text-anchor="middle" font-size="10" fill="#8B949E">controllers</text>
+<text class="sans" x="256.0" y="150" text-anchor="middle" font-size="19" font-weight="700" fill="#E6EDF3">BLoC</text>
+<text class="m4" x="256.0" y="172" text-anchor="middle" font-size="10" fill="#8B949E">events · states</text>
 <rect x="358" y="96" width="124" height="92" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.5"><animate attributeName="stroke" calcMode="discrete" values="#30363D;#54C5F8;#30363D;#30363D" keyTimes="0;0.37;0.93;1" dur="14.0s" repeatCount="indefinite"/><animate attributeName="fill" calcMode="discrete" values="#161B22;#0F2A3A;#161B22;#161B22" keyTimes="0;0.37;0.93;1" dur="14.0s" repeatCount="indefinite"/></rect>
 <text class="m4" x="420.0" y="120" text-anchor="middle" font-size="10" font-weight="700" fill="#54C5F8">03 / API</text>
 <text class="sans" x="420.0" y="150" text-anchor="middle" font-size="19" font-weight="700" fill="#E6EDF3">REST</text>
