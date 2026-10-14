@@ -1,139 +1,51 @@
-<!-- ⚫ DARK SCI-FI README: Starship Terminal Boot Sequence -->
+<img src="assets/header-terminal.svg?v=1" alt="terminal session - flutter run --release, flutter analyze && flutter test, git push origin main" width="100%">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1200&color=8C74FF&center=true&vCenter=true&width=800&lines=BOOTING+GITHUB+CORE...;ACCESS+POINT:+SHAKIL+MAHMUD;Flutter+Developer+%7C+Software+Engineer" />
-</h1>
+# Shakil Mahmud
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
+<details open>
+<summary><img src="assets/badge-01.svg?v=1" alt="01/ABOUT - Flutter Developer, Problem Solver" height="28" align="center"></summary>
+<br>
 
-</p>
+Flutter developer from Dhaka, Bangladesh. I build cross-platform apps end to end: the UI, the state, the API, the database, and the release. I like data structures and algorithms as much as I like pixels, and I keep my OOP honest. 66 repositories and counting, most of them apps I wanted to see running on a real phone.
+</details>
 
----
+<details open>
+<summary><img src="assets/badge-02.svg?v=1" alt="02/ROOTS - Arduino and C++ before Flutter" height="28" align="center"></summary>
+<br>
 
-<div align="center">
+Before Flutter there was C and C++ and a desk full of Arduino boards: an RFID attendance and gate system, IoT health and greenhouse monitors, a robo-soccer bot. Hardware teaches you that code has to survive the real world, and that habit followed me into mobile.
+</details>
 
-### 🛡️ **Status:**  
-`Galactic Node Online` • `Quantum Signal Stable` • `Awaiting Commands`
+<details open>
+<summary><img src="assets/badge-03.svg?v=1" alt="03/WORK - Join Venture Ai, Dhaka" height="28" align="center"></summary>
+<br>
 
-</div>
+I work at Join Venture Ai, shipping Flutter apps for real users. Day to day that means Dart on the front, Firebase, Supabase or a REST API behind it, GetX holding the state together, and Figma open on the second screen.
+</details>
 
----
+<details open>
+<summary><img src="assets/badge-04.svg?v=1" alt="04/SHIPPED - Apps built end to end" height="28" align="center"></summary>
+<br>
 
-## 🧬 **Identity Scan — Subject Profile**
+| App | What it is | Repo |
+| --- | --- | --- |
+| **Universal POS** | One point-of-sale for furniture, supershop, cosmetic and local stores. Flutter app plus a Python backend. | [app](https://github.com/S4K1L/Universal-POS) · [backend](https://github.com/S4K1L/Universal-POS-Backend) |
+| **Nexora** | Inventory and POS system for small retail. | [Inventory-POS-System---Nexora](https://github.com/S4K1L/Inventory-POS-System---Nexora) |
+| **Kunchi Hidup** | Chakra-based emotional wellbeing app. | [Kunchi-Hidup](https://github.com/S4K1L/Kunchi-Hidup) |
+| **TheClue** | Crypto education with an audio engine. | [Crypto-Education](https://github.com/S4K1L/Crypto-Education) |
+| **re:** | Social media app. | private |
+</details>
 
-```bash
-> Initiating biometric scan…
-> Match found: "SHAKIL MAHMUD"
-> Rank: Flutter Developer | Software Engineer
-> Modules: UI Architecture | Cross-Platform Deployment | Cloud Sync Systems
-> Clearance Level: ALPHA-7
-````
+<img src="assets/pipeline.svg?v=1" alt="Idea to shipped app: UI, state, API, data, release, then five shipped apps" width="100%">
 
-I create immersive mobile experiences, sculpt futuristic UI, and deploy scalable cloud systems across digital galaxies.
-Every project is crafted with precision — every line of code forged like star-steel.
-
----
-
-# ⚙️ **Tech Arsenal — Weapon Systems**
-
-```yaml
-Core Languages:
-  - Dart
-  - Python
-  - C
-  - C++
-
-Framework:
-  - Flutter Engine vNext
-
-Backend Nodes:
-  - Firebase
-  - Supabase
-  - REST Networks
-
-State Core:
-  - GetX
-
-Design Console:
-  - Figma Holographics
-  - Material Protocol
-
-Operational Tools:
-  - VS Code
-  - Android Studio
-  - GitHub Grid
-```
+<p align="center"><code>One developer, every layer. The pipeline above is how an idea becomes a store listing: widgets, GetX state, REST, cloud data, then release. The cards at the bottom are what came out of it.</code></p>
 
 ---
 
-# 🛰️ **Communication Channels**
+`›` `portfolio` [s4k1l-portfolio.web.app](https://s4k1l-portfolio.web.app/) `·` `network` [in/shakil-mahmud](https://linkedin.com/in/shakil-mahmud) `·` `resume` [download](https://drive.google.com/file/d/1-NjeL20TYeViROxPFXh0GT-HBnFGH18k/view?usp=sharing) `·` `direct` [69shakilmahmumd@gmail.com](mailto:69shakilmahmumd@gmail.com)
 
-<div align="center">
-  <a href="mailto:69shakilmahmumd@gmail.com"><img src="https://img.shields.io/badge/Encrypted%20Signal-8B0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/shakil-mahmud"><img src="https://img.shields.io/badge/LinkedIn%20Gateway-001F3F?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
----
-
-# 🌌 **Deployed Missions**
-
-### 🧠 Kunchi Hiddup - Chakra App
-
-`AI UNIT: Emotional Stabilizer — Status: Active`
-🔗 **Repo:** [https://github.com/S4K1L/Kunchi-Hidup.git](https://github.com/S4K1L/Kunchi-Hidup.git)
-
----
-
-### 🛸 TheClue - Crypto Education
-
-`AUDIO CORE ENGINE — Status: Operational`
-🔗 **Repo:** [https://github.com/S4K1L/Crypto-Education.git](https://github.com/S4K1L/Crypto-Education.git)
-
----
-
-### 💬 re: - Social Media App
-
-`QUANTUM COMM LINK — Status: Stable`
-🔗 **Repo:** [https://github.com/S4K1L/REE-Social-Media.git](https://github.com/S4K1L/REE-Social-Media.git)
-
----
-
-# 🛸 **Activity Map — Galactic Footprint**
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shakilmahmud&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilmahmud&theme=chartreuse-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shakilmahmud&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-# 📁 **Download Mission Brief (Resume)**
-
-<div align="center">
-  <a href="https://drive.google.com/file/d/1-NjeL20TYeViROxPFXh0GT-HBnFGH18k/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Download%20Resume-8C74FF?style=for-the-badge&logo=readme&logoColor=white">
-  </a>
-</div>
-
----
-
-## 🧠 **Prime Directive**
-
-> **“Precision in Code. Depth in Design. Order in the Chaos of the Cosmos.”**
-> — *Commander Shakil*
-
----
-
-<div align="center">
-
-### 🖤 **END OF TRANSMISSION**
-
-`Nebula Core entering silent mode…`
-`Reinitialize anytime.`
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S4K1L/S4K1L/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S4K1L/S4K1L/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/S4K1L/S4K1L/output/pacman-contribution-graph.svg">
+</picture>
