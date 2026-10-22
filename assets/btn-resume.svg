@@ -1,27 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="212" height="48" viewBox="0 0 212 48" role="img" aria-label="Resume">
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="44" viewBox="0 0 188 44" role="img" aria-label="Resume">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8C74FF"/><stop offset="55%" stop-color="#54C5F8"/><stop offset="100%" stop-color="#5EEAD4"/>
-    </linearGradient>
-    <linearGradient id="gv" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#8C74FF"/><stop offset="100%" stop-color="#54C5F8"/>
-    </linearGradient>
-    <linearGradient id="comet" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#54C5F8" stop-opacity="0"/><stop offset="100%" stop-color="#54C5F8" stop-opacity="1"/>
-    </linearGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
-    </pattern>
     <style>
+      :root { --bg:#0d1117; --panel:#161b22; --inset:#010409; --border:#30363d; --text:#e6edf3; --muted:#9198a1; --dim:#6e7681;
+              --accent:#4493f8; --green:#3fb950;
+              --kw:#ff7b72; --ty:#ffa657; --st:#a5d6ff; --fn:#d2a8ff; --an:#79c0ff; --pn:#9198a1; }
+      @media (prefers-color-scheme: light) {
+        :root { --bg:#ffffff; --panel:#f6f8fa; --inset:#eaeef2; --border:#d1d9e0; --text:#1f2328; --muted:#59636e; --dim:#818b98;
+                --accent:#0969da; --green:#1a7f37;
+                --kw:#cf222e; --ty:#953800; --st:#0a3069; --fn:#8250df; --an:#0550ae; --pn:#59636e; }
+      }
       .m { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; white-space: pre; }
       .s { font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; }
     </style>
   </defs>
-  <clipPath id="bc"><rect width="212" height="48" rx="24"/></clipPath>
-  <rect width="212" height="48" rx="24" fill="#111827"/>
-  <g clip-path="url(#bc)"><rect y="0" width="60" height="48" fill="#ffffff" opacity="0.07" transform="skewX(-20)"><animate attributeName="x" values="-90;260" dur="5.0s" repeatCount="indefinite"/></rect></g>
-  <rect x="0.5" y="0.5" width="211" height="47" rx="24" fill="none" stroke="#5EEAD4" stroke-opacity="0.6"/>
-  <circle cx="26" cy="24" r="14" fill="#5EEAD4" fill-opacity="0.16"/>
-  <text class="m" x="26" y="29" font-size="14" font-weight="800" fill="#5EEAD4" text-anchor="middle">v</text>
-  <text class="s" x="52" y="30" font-size="15" font-weight="700" fill="#E6EDF3">Resume</text>
+  <rect width="188" height="44" rx="22" style="fill:var(--panel)"/><rect x="0.5" y="0.5" width="187" height="43" rx="22" fill="none" style="stroke:var(--border)"/>
+  <g transform="translate(28,22)" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--accent)"><path d="M-6 -9 H3 L7 -5 V9 H-6 Z"/><path d="M3 -9 V-5 H7 M-3 0 H4 M-3 4 H4"/></g>
+  <text class="s" x="52" y="27" font-size="14" font-weight="600" style="fill:var(--text)">Resume</text>
 </svg>

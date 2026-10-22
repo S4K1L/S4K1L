@@ -1,33 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="168" viewBox="0 0 440 168" role="img" aria-label="re: social media app">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8C74FF"/><stop offset="55%" stop-color="#54C5F8"/><stop offset="100%" stop-color="#5EEAD4"/>
-    </linearGradient>
-    <linearGradient id="gv" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#8C74FF"/><stop offset="100%" stop-color="#54C5F8"/>
-    </linearGradient>
-    <linearGradient id="comet" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#54C5F8" stop-opacity="0"/><stop offset="100%" stop-color="#54C5F8" stop-opacity="1"/>
-    </linearGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
-    </pattern>
     <style>
+      :root { --bg:#0d1117; --panel:#161b22; --inset:#010409; --border:#30363d; --text:#e6edf3; --muted:#9198a1; --dim:#6e7681;
+              --accent:#4493f8; --green:#3fb950;
+              --kw:#ff7b72; --ty:#ffa657; --st:#a5d6ff; --fn:#d2a8ff; --an:#79c0ff; --pn:#9198a1; }
+      @media (prefers-color-scheme: light) {
+        :root { --bg:#ffffff; --panel:#f6f8fa; --inset:#eaeef2; --border:#d1d9e0; --text:#1f2328; --muted:#59636e; --dim:#818b98;
+                --accent:#0969da; --green:#1a7f37;
+                --kw:#cf222e; --ty:#953800; --st:#0a3069; --fn:#8250df; --an:#0550ae; --pn:#59636e; }
+      }
       .m { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; white-space: pre; }
       .s { font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; }
     </style>
   </defs>
-  <clipPath id="cc"><rect width="440" height="168" rx="14"/></clipPath>
-  <rect width="440" height="168" rx="14" fill="#111827"/>
-  <rect width="440" height="168" rx="14" fill="url(#grid)"/>
-  <g clip-path="url(#cc)">
-    <rect x="0" y="0" width="5" height="168" fill="url(#gv)"/>
-    <rect y="0" width="160" height="2" fill="url(#comet)"><animate attributeName="x" values="-160;440" dur="6.0s" repeatCount="indefinite"/></rect>
-  </g>
-  <rect x="0.5" y="0.5" width="439" height="167" rx="14" fill="none" stroke="#1F2937"/>
-  <text class="s" x="26" y="40" font-size="21" font-weight="800" fill="#E6EDF3">re:</text>
-  <text class="s" x="26" y="68" font-size="12.5" fill="#9CA3AF">A social media app.</text><text class="s" x="26" y="86" font-size="12.5" fill="#9CA3AF">Private repository.</text>
-  <rect x="26" y="124" width="68" height="24" rx="12" fill="#172033" stroke="#1F2937"/><text class="m" x="60" y="140" font-size="11" fill="#54C5F8" text-anchor="middle">Flutter</text><rect x="102" y="124" width="61" height="24" rx="12" fill="#172033" stroke="#1F2937"/><text class="m" x="133" y="140" font-size="11" fill="#54C5F8" text-anchor="middle">Social</text>
-  <g transform="translate(364,22)"><rect x="2" y="4" width="40" height="28" rx="10" fill="#172033" stroke="#54C5F8" stroke-width="1.5"/><path d="M12 32 L10 44 L22 32 Z" fill="#172033" stroke="#54C5F8" stroke-width="1.5" stroke-linejoin="round"/><circle cx="14" cy="18" r="2.8" fill="#54C5F8"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="23" cy="18" r="2.8" fill="#54C5F8"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="0.2s" repeatCount="indefinite"/></circle><circle cx="32" cy="18" r="2.8" fill="#54C5F8"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="0.4s" repeatCount="indefinite"/></circle><rect x="18" y="30" width="36" height="22" rx="8" fill="url(#gv)" opacity="0.9"/></g>
-  <text class="m" x="418" y="140" font-size="11.5" fill="#6B7280" text-anchor="end">private</text>
+  <rect width="440" height="168" rx="12" style="fill:var(--panel)"/><rect x="0.5" y="0.5" width="439" height="167" rx="12" fill="none" style="stroke:var(--border)"/>
+  <text class="s" x="24" y="40" font-size="20" font-weight="700" style="fill:var(--text)">re:</text>
+  <text class="s" x="24" y="68" font-size="12.5" style="fill:var(--muted)">A social media app.</text><text class="s" x="24" y="86" font-size="12.5" style="fill:var(--muted)">Private repository.</text>
+  <rect x="24" y="124" width="68" height="24" rx="12" fill="none" style="stroke:var(--border)"/><text class="m" x="58" y="140" font-size="11" text-anchor="middle" style="fill:var(--muted)">Flutter</text><rect x="100" y="124" width="61" height="24" rx="12" fill="none" style="stroke:var(--border)"/><text class="m" x="131" y="140" font-size="11" text-anchor="middle" style="fill:var(--muted)">Social</text>
+  <g transform="translate(366,24)" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--accent)"><rect x="2" y="4" width="40" height="28" rx="9"/><path d="M12 32 L10 44 L22 32"/><circle cx="14" cy="18" r="2.4" stroke="none" style="fill:var(--accent)"><animate attributeName="opacity" values="0.25;1;0.25" dur="1.2s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="23" cy="18" r="2.4" stroke="none" style="fill:var(--accent)"><animate attributeName="opacity" values="0.25;1;0.25" dur="1.2s" begin="0.2s" repeatCount="indefinite"/></circle><circle cx="32" cy="18" r="2.4" stroke="none" style="fill:var(--accent)"><animate attributeName="opacity" values="0.25;1;0.25" dur="1.2s" begin="0.4s" repeatCount="indefinite"/></circle></g>
+  <text class="m" x="418" y="140" font-size="11.5" text-anchor="end" style="fill:var(--dim)">private</text>
 </svg>
