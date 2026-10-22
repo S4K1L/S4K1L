@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="168" viewBox="0 0 440 168" role="img" aria-label="TheClue">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8C74FF"/><stop offset="55%" stop-color="#54C5F8"/><stop offset="100%" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <linearGradient id="gv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8C74FF"/><stop offset="100%" stop-color="#54C5F8"/>
+    </linearGradient>
+    <linearGradient id="comet" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#54C5F8" stop-opacity="0"/><stop offset="100%" stop-color="#54C5F8" stop-opacity="1"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <style>
+      .m { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; white-space: pre; }
+      .s { font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; }
+    </style>
+  </defs>
+  <clipPath id="cc"><rect width="440" height="168" rx="14"/></clipPath>
+  <rect width="440" height="168" rx="14" fill="#111827"/>
+  <rect width="440" height="168" rx="14" fill="url(#grid)"/>
+  <g clip-path="url(#cc)">
+    <rect x="0" y="0" width="5" height="168" fill="url(#gv)"/>
+    <rect y="0" width="160" height="2" fill="url(#comet)"><animate attributeName="x" values="-160;440" dur="6.0s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="0.5" y="0.5" width="439" height="167" rx="14" fill="none" stroke="#1F2937"/>
+  <text class="s" x="26" y="40" font-size="21" font-weight="800" fill="#E6EDF3">TheClue</text>
+  <text class="s" x="26" y="68" font-size="12.5" fill="#9CA3AF">Crypto education app with an audio engine</text><text class="s" x="26" y="86" font-size="12.5" fill="#9CA3AF">at its core.</text>
+  <rect x="26" y="124" width="68" height="24" rx="12" fill="#172033" stroke="#1F2937"/><text class="m" x="60" y="140" font-size="11" fill="#54C5F8" text-anchor="middle">Flutter</text><rect x="102" y="124" width="54" height="24" rx="12" fill="#172033" stroke="#1F2937"/><text class="m" x="130" y="140" font-size="11" fill="#54C5F8" text-anchor="middle">Audio</text><rect x="165" y="124" width="82" height="24" rx="12" fill="#172033" stroke="#1F2937"/><text class="m" x="206" y="140" font-size="11" fill="#54C5F8" text-anchor="middle">Education</text>
+  <g transform="translate(364,22)"><ellipse cx="28" cy="28" rx="24" ry="24" fill="#172033" stroke="#54C5F8" stroke-width="2"><animate attributeName="rx" values="24;3;24" dur="2.6s" repeatCount="indefinite"/></ellipse><text class="s" x="28" y="36" font-size="22" font-weight="800" fill="#5EEAD4" text-anchor="middle">C<animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" dur="2.6s" repeatCount="indefinite"/></text></g>
+  <text class="m" x="418" y="140" font-size="11.5" fill="#54C5F8" text-anchor="end">repo -&gt;</text>
+</svg>

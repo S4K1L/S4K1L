@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="372" viewBox="0 0 900 372" role="img" aria-label="BLoC data flow: UI sends an event to the BLoC, which calls a repository, gets data back and emits a new state to the UI">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8C74FF"/><stop offset="55%" stop-color="#54C5F8"/><stop offset="100%" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <linearGradient id="gv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8C74FF"/><stop offset="100%" stop-color="#54C5F8"/>
+    </linearGradient>
+    <linearGradient id="comet" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#54C5F8" stop-opacity="0"/><stop offset="100%" stop-color="#54C5F8" stop-opacity="1"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <style>
+      .m { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; white-space: pre; }
+      .s { font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; }
+    </style>
+  </defs>
+<rect width="900" height="372" rx="16" fill="#111827"/><rect width="900" height="372" rx="16" fill="url(#grid)"/>
+<rect x="0.5" y="0.5" width="899" height="371" rx="16" fill="none" stroke="#1F2937"/>
+<text class="m" x="30" y="40" font-size="12" fill="#6B7280">checkout flow . one tap, traced through the layers</text>
+<path id="p0" d="M 200 132 L 365 132" fill="none" stroke="#1F2937" stroke-width="2" stroke-dasharray="5 5"/>
+<path d="M 357 127 L 365 132 L 357 137" fill="none" stroke="#6B7280" stroke-width="2"/>
+<g opacity="0.35"><animate attributeName="opacity" values="0.35;0.35;1;1;0.35;0.35" keyTimes="0;0.04;0.06;0.3;0.34;1" dur="12.0s" repeatCount="indefinite"/><text class="m" x="282.5" y="120" font-size="11.5" font-weight="700" fill="#54C5F8" text-anchor="middle">ScanItem(sku)</text><text class="m" x="282.5" y="107" font-size="9.5" fill="#6B7280" text-anchor="middle">event</text></g>
+<circle r="6" fill="#54C5F8" opacity="0"><animateMotion dur="12.0s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.04;0.2;1" calcMode="linear"><mpath href="#p0"/></animateMotion><animate attributeName="opacity" calcMode="discrete" values="0;1;0;0" keyTimes="0;0.04;0.201;1" dur="12.0s" repeatCount="indefinite"/></circle>
+<path id="p1" d="M 535 132 L 700 132" fill="none" stroke="#1F2937" stroke-width="2" stroke-dasharray="5 5"/>
+<path d="M 692 127 L 700 132 L 692 137" fill="none" stroke="#6B7280" stroke-width="2"/>
+<g opacity="0.35"><animate attributeName="opacity" values="0.35;0.35;1;1;0.35;0.35" keyTimes="0;0.24;0.26;0.5;0.54;1" dur="12.0s" repeatCount="indefinite"/><text class="m" x="617.5" y="120" font-size="11.5" font-weight="700" fill="#54C5F8" text-anchor="middle">GET /products/42</text><text class="m" x="617.5" y="107" font-size="9.5" fill="#6B7280" text-anchor="middle">request</text></g>
+<circle r="6" fill="#54C5F8" opacity="0"><animateMotion dur="12.0s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.24;0.4;1" calcMode="linear"><mpath href="#p1"/></animateMotion><animate attributeName="opacity" calcMode="discrete" values="0;1;0;0" keyTimes="0;0.24;0.401;1" dur="12.0s" repeatCount="indefinite"/></circle>
+<path id="p2" d="M 700 176 L 535 176" fill="none" stroke="#1F2937" stroke-width="2" stroke-dasharray="5 5"/>
+<path d="M 543 171 L 535 176 L 543 181" fill="none" stroke="#6B7280" stroke-width="2"/>
+<g opacity="0.35"><animate attributeName="opacity" values="0.35;0.35;1;1;0.35;0.35" keyTimes="0;0.44;0.46;0.7;0.74;1" dur="12.0s" repeatCount="indefinite"/><text class="m" x="617.5" y="198" font-size="11.5" font-weight="700" fill="#54C5F8" text-anchor="middle">Product(...)</text><text class="m" x="617.5" y="212" font-size="9.5" fill="#6B7280" text-anchor="middle">data</text></g>
+<circle r="6" fill="#5EEAD4" opacity="0"><animateMotion dur="12.0s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.44;0.6;1" calcMode="linear"><mpath href="#p2"/></animateMotion><animate attributeName="opacity" calcMode="discrete" values="0;1;0;0" keyTimes="0;0.44;0.601;1" dur="12.0s" repeatCount="indefinite"/></circle>
+<path id="p3" d="M 365 176 L 200 176" fill="none" stroke="#1F2937" stroke-width="2" stroke-dasharray="5 5"/>
+<path d="M 208 171 L 200 176 L 208 181" fill="none" stroke="#6B7280" stroke-width="2"/>
+<g opacity="0.35"><animate attributeName="opacity" values="0.35;0.35;1;1;0.35;0.35" keyTimes="0;0.64;0.66;0.9;0.94;1" dur="12.0s" repeatCount="indefinite"/><text class="m" x="282.5" y="198" font-size="11.5" font-weight="700" fill="#54C5F8" text-anchor="middle">CartUpdated(total)</text><text class="m" x="282.5" y="212" font-size="9.5" fill="#6B7280" text-anchor="middle">state</text></g>
+<circle r="6" fill="#5EEAD4" opacity="0"><animateMotion dur="12.0s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.64;0.8;1" calcMode="linear"><mpath href="#p3"/></animateMotion><animate attributeName="opacity" calcMode="discrete" values="0;1;0;0" keyTimes="0;0.64;0.801;1" dur="12.0s" repeatCount="indefinite"/></circle>
+<rect x="30" y="96" width="170" height="112" rx="14" fill="#0F172A" stroke="#1F2937" stroke-width="2"><animate attributeName="stroke" calcMode="discrete" values="#1F2937;#54C5F8;#1F2937;#1F2937" keyTimes="0;0.64;0.92;1" dur="12.0s" repeatCount="indefinite"/></rect>
+<text class="s" x="115.0" y="134" font-size="20" font-weight="800" fill="#E6EDF3" text-anchor="middle">UI</text>
+<text class="m" x="115.0" y="158" font-size="10.5" fill="#9CA3AF" text-anchor="middle">Widgets</text>
+<rect x="56" y="174" width="118" height="4" rx="2" fill="url(#g)" opacity="0.6"/>
+<rect x="365" y="96" width="170" height="112" rx="14" fill="#0F172A" stroke="#1F2937" stroke-width="2"><animate attributeName="stroke" calcMode="discrete" values="#1F2937;#54C5F8;#1F2937;#54C5F8;#1F2937;#1F2937" keyTimes="0;0.04;0.26;0.44;0.66;1" dur="12.0s" repeatCount="indefinite"/></rect>
+<text class="s" x="450.0" y="134" font-size="22" font-weight="800" fill="#E6EDF3" text-anchor="middle">BLoC</text>
+<text class="m" x="450.0" y="158" font-size="10.5" fill="#9CA3AF" text-anchor="middle">events -&gt; states</text>
+<rect x="391" y="174" width="118" height="4" rx="2" fill="url(#g)" opacity="0.6"/>
+<rect x="700" y="96" width="170" height="112" rx="14" fill="#0F172A" stroke="#1F2937" stroke-width="2"><animate attributeName="stroke" calcMode="discrete" values="#1F2937;#54C5F8;#1F2937;#1F2937" keyTimes="0;0.24;0.46;1" dur="12.0s" repeatCount="indefinite"/></rect>
+<text class="s" x="785.0" y="134" font-size="20" font-weight="800" fill="#E6EDF3" text-anchor="middle">Repository</text>
+<text class="m" x="785.0" y="158" font-size="10.5" fill="#9CA3AF" text-anchor="middle">Firebase . Supabase . REST</text>
+<rect x="726" y="174" width="118" height="4" rx="2" fill="url(#g)" opacity="0.6"/>
+<text class="m" x="30" y="294" font-size="12" font-weight="800" fill="#54C5F8">01</text><text class="s" x="58" y="294" font-size="14" font-weight="600" fill="#E6EDF3">the UI only sends events</text>
+<text class="m" x="320" y="294" font-size="12" font-weight="800" fill="#54C5F8">02</text><text class="s" x="348" y="294" font-size="14" font-weight="600" fill="#E6EDF3">the BLoC owns the logic</text>
+<text class="m" x="610" y="294" font-size="12" font-weight="800" fill="#54C5F8">03</text><text class="s" x="638" y="294" font-size="14" font-weight="600" fill="#E6EDF3">data stays behind a repository</text>
+<text class="m" x="30" y="332" font-size="12" fill="#6B7280">events go in, immutable states come out. every screen is just a function of the latest state.</text>
+</svg>
